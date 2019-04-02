@@ -3,3 +3,6 @@
 *.exe
 *.out
 
+# pyc files
+
+*.pyc
