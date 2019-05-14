@@ -1,8 +1,13 @@
-# object and executable files 
+# object and executable files
 
 *.exe
 *.out
 
-# pyc files
+# python cache files
 
+__pycache__
 *.pyc
+
+# build
+
+build*

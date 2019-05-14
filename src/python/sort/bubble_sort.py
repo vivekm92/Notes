@@ -1,11 +1,14 @@
 """Bubble Sort
 """
+
+
 def bubbleSort(arr):
-    """Bubble Sort (Iterative Implementation.)
+    """
+    Bubble Sort -- Iterative Implementation.
     Time Complexity  : O(n^2)
     Space Complexity : O(1)
 
-    Args : arr (list container)
+    :param arr: a list container
     """
 
     for i in range(len(arr) - 1):
@@ -20,7 +23,3 @@ def bubbleSort(arr):
             break
 
     return arr
-
-
-# print(bubbleSort([5,6,4,3,2,1,0,-1]))
-# print(bubbleSort([j for j in range(10, -10, -1)]))

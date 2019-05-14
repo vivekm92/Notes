@@ -6,6 +6,7 @@ struct ArrayStack {
   int capacity;  //
   int *array; // Underlying array which is used to store elements of stack.
 };
+
 // Initialise a stack.
 ArrayStack* CreateStack(int capacity=1){
   ArrayStack* S = (ArrayStack*)malloc(sizeof(ArrayStack));
@@ -20,14 +21,17 @@ ArrayStack* CreateStack(int capacity=1){
   }
   return S;
 }
+
 // return whether the stack is empty or not.
 bool isEmpty(ArrayStack* S){
   return (S->peek == -1); // if element at the top is -1, then stack is empty.
 }
+
 // return whether the stack is full or not.
 bool isFull(ArrayStack* S){
   return (S->peek == S->capacity -1);
 }
+
 // push data onto stack.
 void push(ArrayStack* S, int data){
   if(isFull(S)){ // if stack is full,
@@ -47,8 +51,12 @@ int pop(ArrayStack* S){
     return (S->array[S->peek--]);
   }
 }
-// driver function.
+
+// driver method.
 int main(){
+  ios_base::sync_with_stdio(false);
+  cin.tie(nullptr);
+
   ArrayStack *S = CreateStack(10);
   cout << "Stack capacity :" << S->capacity << "\n";
   cout << "Element at top of Stack " << S->peek << "\n";
