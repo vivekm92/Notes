@@ -4,4 +4,4 @@
 Behvioural Interview
 
 [1] LeetCode Explore Card ( Rock the Behavoiural Interview) : https://leetcode.com/explore/interview/card/leapai/       
-[2] Grokking the Behaviour Interview ( Free Course ) : https://www.educative.io/courses/grokking-the-behavioral-interview
+[2] Grokking the Behaviour Interview : https://www.educative.io/courses/grokking-the-behavioral-interview
