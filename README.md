@@ -1,13 +1,18 @@
 [![Build Status](https://travis-ci.org/vivekm92/Notes.svg?branch=master)](https://travis-ci.org/vivekm92/Notes)
 
+## Behvioural Interview
 
-Behvioural Interview
-
-[1] LeetCode Explore Card ( Rock the Behavioral Interview) : https://leetcode.com/explore/interview/card/leapai/       
-[2] Grokking the Behaviour Interview : https://www.educative.io/courses/grokking-the-behavioral-interview
-
+[1] <a href="https://leetcode.com/explore/interview/card/leapai/">LeetCode Explore Card ( Rock the Behavioral Interview)</a>     
+[2] <a href="https://www.educative.io/courses/grokking-the-behavioral-interview">Grokking the Behaviour Interview</a>     
 
 
-System Design
 
-[1] Introduction to REST : https://restfulapi.net/
+## System Design
+
+[1] <a href="https://restfulapi.net/"> Introduction to REST (restfulapi.net)</a>     
+
+
+
+## Books
+
+[1] <a href="https://cses.fi/book/book.pdf"> Competetive Programmer's Handbook</a>  
