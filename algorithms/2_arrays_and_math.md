@@ -9,8 +9,8 @@
 
 ## Problems :
 
-[1] Rain Water Trapped   
-[2] <a href="https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/can-you-solve-it/"> Maximum Absolute Difference : hackerearth </a>   
+[1] [Rain Water Trapped](https://leetcode.com/problems/trapping-rain-water/) : [Solution](../src/algorithms/1_rain_water_trapped.cpp)    
+[2] [Maximum Absolute Difference](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/can-you-solve-it/) : [Solution](../src/algorithms/2_maximum_absoute_difference.cpp)  
 [3] Maximum Consecutive Gap   
 [4] Carotenemia    
 [5] Spiral Order Matrix ii    
