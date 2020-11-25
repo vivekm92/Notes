@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class rainWaterTrapped {
+public class maximumAbsoluteDifference {
 
   public static void main(String[] args) {
 
