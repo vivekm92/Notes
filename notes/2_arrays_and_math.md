@@ -15,8 +15,8 @@
 
 ## Problems : [Arrays]
 
-[1] [Rain Water Trapped](https://leetcode.com/problems/trapping-rain-water/) : [cpp](../src/2_arrays_and_math/rainWaterTrapped.cpp), [java](../../src/2_arrays_and_math/rainWaterTrapped.java)              
-[2] [Maximum Absolute Difference](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/can-you-solve-it/) : [cpp](../src/2_arrays_and_math/maximumAbsoluteDifference.cpp), [java](../../src/2_arrays_and_math/maximumAbsoluteDifference.java)    
+[1] [Rain Water Trapped](https://leetcode.com/problems/trapping-rain-water/) : [cpp](../src/2_arrays_and_math/rainWaterTrapped.cpp), [java](../src/2_arrays_and_math/rainWaterTrapped.java)              
+[2] [Maximum Absolute Difference](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/can-you-solve-it/) : [cpp](../src/2_arrays_and_math/maximumAbsoluteDifference.cpp), [java](../src/2_arrays_and_math/maximumAbsoluteDifference.java)    
 [3] Maximum Consecutive Gap   
 [4] Carotenemia    
 [5] Spiral Order Matrix ii    
