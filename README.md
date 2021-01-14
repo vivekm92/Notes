@@ -27,3 +27,9 @@
 [5] <a href="https://www.dacast.com/blog/hls-streaming-protocol/">HLS streaming protocol</a>.   
 [6] <a href="https://www.wowza.com/blog/low-latency-hls-vs-webrtc">HLS vs WebRTC</a>.     
 [7] <a href="https://www.wowza.com/blog/complete-guide-to-live-streaming">Guide to Live Streaming</a>.     
+
+
+## Auth resources :
+
+[1] <a href="https://jwt.io/introduction">JWT Introduction</a>.  
+[2] <a href="https://auth0.com/learn/json-web-tokens/">Get Started with JWT</a>.   
