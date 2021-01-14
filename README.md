@@ -33,3 +33,5 @@
 
 [1] <a href="https://jwt.io/introduction">JWT Introduction</a>.  
 [2] <a href="https://auth0.com/learn/json-web-tokens/">Get Started with JWT</a>.   
+[3] <a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2"> Introduction to Oauth-2 digital Ocean tutorial</a>.   
+
