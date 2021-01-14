@@ -35,3 +35,11 @@
 [2] <a href="https://auth0.com/learn/json-web-tokens/">Get Started with JWT</a>.   
 [3] <a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2"> Introduction to Oauth-2 digital Ocean tutorial</a>.   
 
+## JavaScript resources :
+
+[1] <a href="https://javascript.info/"> The Modern JavaSript Tutorial</a>.   
+[2] <a href="https://www.freecodecamp.org/learn">FreeCodeCamp</a>.   
+[3] <a href="https://www.hackerrank.com/domains/tutorials/10-days-of-javascript">10-days-of-javascript by hackerrank</a>.   
+[4] <a href="https://www.hackerrank.com/skills-verification/javascript_basic">Js certification by hackerrank</a>.   
+
+
