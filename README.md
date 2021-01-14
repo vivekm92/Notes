@@ -24,3 +24,6 @@
 [2] <a href="https://webrtc.org/">Google Developers</a>.    
 [3] <a href="https://webrtcforthecurious.com/">WebRTC for the Curious</a>.          
 [4] <a href="https://www.youtube.com/watch?v=FExZvpVvYxA">WebRTC crash course by Hussein Nasser</a>.       
+[5] <a href="https://www.dacast.com/blog/hls-streaming-protocol/">HLS streaming protocol</a>.   
+[6] <a href="https://www.wowza.com/blog/low-latency-hls-vs-webrtc">HLS vs WebRTC</a>.     
+[7] <a href="https://www.wowza.com/blog/complete-guide-to-live-streaming">Guide to Live Streaming</a>.     
