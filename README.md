@@ -42,4 +42,6 @@
 [3] <a href="https://www.hackerrank.com/domains/tutorials/10-days-of-javascript">10-days-of-javascript by hackerrank</a>.   
 [4] <a href="https://www.hackerrank.com/skills-verification/javascript_basic">Js certification by hackerrank</a>.   
 
+## Python resources :
 
+[1] <a href="http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/">Python decorators</a>.  
