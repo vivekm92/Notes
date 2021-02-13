@@ -45,3 +45,8 @@
 ## Python resources :
 
 [1] <a href="http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/">Python decorators</a>.  
+
+
+## Java resources :
+
+[1] <a href="http://tutorials.jenkov.com/">Jakob Jenkov</a>            
