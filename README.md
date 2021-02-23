@@ -50,3 +50,9 @@
 ## Java resources :
 
 [1] <a href="http://tutorials.jenkov.com/">Jakob Jenkov</a>            
+
+
+## Golang resources :
+
+[1] <a href="https://gobyexample.com/">Go By Example</a>        
+[2] <a href="https://blog.golang.org/slices-intro">Design and Implementation of slices in Go</a>       
