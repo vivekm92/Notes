@@ -56,3 +56,5 @@
 
 [1] <a href="https://gobyexample.com/">Go By Example</a>        
 [2] <a href="https://blog.golang.org/slices-intro">Design and Implementation of slices in Go</a>       
+[3] <a href="https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go">How to use interfaces in Go</a>       
+[4]
