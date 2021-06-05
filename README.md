@@ -18,7 +18,7 @@
 [1] <a href="https://cses.fi/book/book.pdf"> Competetive Programmer's Handbook</a>  
 
 
-## WebRTC resources : 
+## WebRTC resources :
 
 [1] <a href="https://www.youtube.com/watch?v=p2HzZkd2A40">Real-time communication with WebRTC: Google I/O 2013</a>.      
 [2] <a href="https://webrtc.org/">Google Developers</a>.    
@@ -54,7 +54,25 @@
 
 ## Golang resources :
 
-[1] <a href="https://gobyexample.com/">Go By Example</a>        
-[2] <a href="https://blog.golang.org/slices-intro">Design and Implementation of slices in Go</a>       
-[3] <a href="https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go">How to use interfaces in Go</a>       
-[4]
+ *  <a href="https://gobyexample.com/">Go By Example</a>
+ *	A Tour of Golang : https://tour.golang.org/welcome/1        
+ *	Golang Documentation : https://golang.org/doc/            
+ * 	Get started with Goalng : http://www.golangbootcamp.com/book         
+ * 	Hackerrank Golang basic certification : https://www.hackerrank.com/skills-verification/golang_basic      
+ * 	Hackerrank Golang intermediate certification : https://www.hackerrank.com/skills-verification/golang_intermediate     
+ *	The Go Blog index : https://blog.golang.org/index     
+ *	Golang Wiki on Github Repo : https://github.com/golang/go/wiki    
+ *	Golang Language Specification : http://golang.org/ref/spec     
+ * 	Golang declaration syntax : http://blog.golang.org/gos-declaration-syntax     
+ *	Golang fmt Package : https://golang.org/pkg/fmt/#hdr-Printing     
+ * 	Golang Packages : https://golang.org/pkg/      
+ * 	The Go Blog : Go Slices : usage and internals : https://blog.golang.org/slices-intro    
+ * 	The Go Blog : Go maps in action : https://blog.golang.org/maps     
+
+
+## Go Concurrency :
+
+ * Hoare's Communication Sequential Processes (CSP) : https://en.wikipedia.org/wiki/Communicating_sequential_processes    
+ * Go Concurrency Patterns (Rob Pike slides IO 2012) : https://talks.golang.org/2012/concurrency.slide#1    
+ * Go Concurrency Patterns (Rob Pike video IO 2012) : https://www.youtube.com/watch?v=f6kdp27TYZs    
+ * Rob Pike - Concurrency is not Parallelism : https://vimeo.com/49718712    
